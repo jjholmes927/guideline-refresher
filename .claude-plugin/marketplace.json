@@ -1,5 +1,5 @@
 {
-  "name": "guideline-refresher",
+  "name": "jjholmes927-claude-skills",
   "owner": {
     "name": "jjholmes927"
   },
@@ -12,7 +12,7 @@
       "version": "1.0.0",
       "source": {
         "source": "github",
-        "repo": "jjholmes927/claude-skills"
+        "repo": "jjholmes927/jjholmes927-claude-skills"
       }
     }
   ]
